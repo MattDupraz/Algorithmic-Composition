@@ -1,0 +1,3558 @@
+<REAPER_PROJECT 0.1 "6.29/win64" 1622284205
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 9.13579078940047 0 0
+  VZOOMEX 7 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 15 15
+  SELECTION2 15 15
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.43161018370141 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {86BB4E84-4703-4530-A4AB-A8905BB5F9FD}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {1B31D10B-74CD-464A-A289-4D921626ED14}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 4 "First point on graph" 0 0 1 R {B4247DBC-3E98-4D59-AB47-0F214985122F}
+  MARKER 2 48 "Human appear" 0 0 1 R {B0C127C8-A403-4CA1-B16D-D2C7F161CF9B}
+  MARKER 3 78 Death 0 0 1 R {563D2046-8028-4FB3-91A2-22FF8FCCB391}
+  MARKER 4 84 Rebirth 0 0 1 R {9504ACDF-B94A-4CB5-9D1F-E9B42D51B97E}
+  <PROJBAY
+  >
+  <TRACK {9AE69B97-0ED1-4B97-A4FA-6247B70CC9F6}
+    NAME "Upper mass (Gazelle)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.44224548976431 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 15 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9AE69B97-0ED1-4B97-A4FA-6247B70CC9F6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      EGUID {A74847E7-602C-4EC5-9CEB-580DB49D53D8}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 0.03 0
+      PT 4 0 0
+      PT 6.5 0 0
+      PT 8 -0.00407407 0
+      PT 9 1 0
+      PT 11.5 1 0
+      PT 14 1 0
+      PT 15.5 1 0
+      PT 16.5 -0.00694915 0
+      PT 19 -0.00694915 0
+      PT 21.5 -0.00694915 0
+      PT 23 0 0
+      PT 24 1 0
+      PT 26.5 1 0
+      PT 29 1 0
+      PT 30.5 1 0
+      PT 31.5 0.01084746 0
+      PT 34 0.01084746 0
+      PT 36.5 0.01084746 0
+      PT 38 -0.01 0
+      PT 39 -1 0
+      PT 41.5 -1 0
+      PT 44 -1 0
+      PT 45.5 -1 0
+      PT 46.5 0.01864407 0
+      PT 49 0.01864407 0
+      PT 51.5 0.01864407 0
+      PT 53 0.03 0
+      PT 54 1 0
+      PT 56.5 1 0
+      PT 59 1 0
+      PT 60.5 1 0
+      PT 61.5 -0.01474576 0
+      PT 64 -0.01474576 0
+      PT 66.5 -0.01474576 0
+      PT 68 -0.01 0
+      PT 68.9995 0.99979705 0
+      PT 69 0.98 0
+      PT 69.000001 0.98 0
+      PT 71.5 0.98 0
+      PT 74 0.98 0
+      PT 75.5 1 0
+      PT 76.5 -0.03694915 0
+      PT 83.999999 -0.08694915 0
+      PT 84.0005 -0.03694915 0
+      PT 86.499999 -0.03694915 0
+      PT 86.5005 -0.01694915 0
+      PT 89 -0.01694915 0
+      PT 90.5 -0.01 0
+      PT 91.5 -1 0
+      PT 94 -1 0
+      PT 96.5 -1 0
+      PT 98 -1 0 0 1
+      PT 99 0.00254237 0
+    >
+    <WIDTHENV
+      EGUID {7C92D961-D129-432B-A3DC-44A50D5A157B}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+      PT 9 -1 0
+      PT 9 1 0
+      PT 9.5 1 0
+      PT 9.5 -0.99 0
+      PT 16.5 -0.99 0
+      PT 16.5 1 0
+      PT 17 1 0
+      PT 17 -1 0
+      PT 24 -1 0
+      PT 24 1 0
+      PT 24.5 1 0
+      PT 24.5 -1 0
+      PT 31.5 -0.95555556 0
+      PT 31.5 1 0
+      PT 32 1 0
+      PT 32 -1 0
+      PT 39 -1 0
+      PT 39 1 0
+      PT 39.5 1 0
+      PT 39.5 -1 0
+      PT 46.5 -1 0
+      PT 46.5 1 0
+      PT 47 1 0
+      PT 47 -1 0
+      PT 48 -1 0
+      PT 66 1 0 0 1
+      PT 78 1 0
+      PT 84 1 0
+      PT 84 -1 0
+    >
+    <WIDTHENV2
+      EGUID {98799E90-B638-4667-94FD-14054C0B3F8C}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+      PT 4 -1 0
+      PT 6.5 -1 0
+      PT 8 -1 0
+      PT 9 1 0
+      PT 11.5 1 0
+      PT 13 0.91222222 0
+      PT 14 -1 0
+      PT 15.5 -1 0
+      PT 16.5 1 0
+      PT 19 1 0
+      PT 20.5 1 0
+      PT 21.5 -1 0
+      PT 23 -1 0
+      PT 24 1 0
+      PT 26.5 1 0
+      PT 28 1 0
+      PT 29 -1 0
+      PT 30.5 -1 0
+      PT 31.5 1 0
+      PT 34 1 0
+      PT 35.5 1 0
+      PT 36.5 -1 0
+      PT 38 -1 0
+      PT 39 1 0
+      PT 41.5 1 0
+      PT 43 1 0
+      PT 44 -1 0
+      PT 45.5 -1 0
+      PT 46.5 1 0
+      PT 49 1 0
+      PT 50.5 0.98 0
+      PT 51.5 -1 0
+      PT 53 -1 0
+      PT 54 1 0
+      PT 56.5 1 0
+      PT 58 1 0
+      PT 59 -1 0
+      PT 60.5 -1 0
+      PT 61.5 1 0
+      PT 64 1 0
+      PT 65.5 1 0
+      PT 66.5 -1 0
+      PT 68 -1 0
+      PT 69 1 0
+      PT 71.5 1 0
+      PT 73 1 0
+      PT 74 -1 0
+      PT 75.5 -0.97 0
+      PT 76.5 1 0
+      PT 84 1 0
+      PT 86.5 1 0
+      PT 88 1 0
+      PT 89 -1 0
+      PT 90.5 -1 0
+      PT 91.5 1 0
+      PT 94 1 0
+      PT 95.5 1 0
+      PT 96.5 -1 0
+      PT 98 -1 0 0 1
+      PT 99 0.94 0
+    >
+    <FXCHAIN
+      WNDRECT 120 90 832 775
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAEAA=
+        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7F03C584-6045-477A-B554-8FE6C6B3C20F}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3377916C-D4AF-4AD9-978F-E14C56E58A49}
+      IID 2
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24BBD3C6-2748-465E-9826-55CAEED18FE6}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {A5E2119D-2367-4552-9B42-5DB4BB3C3313}
+        E 3840 90 56 60
+        e 0 90 5b 7f
+        E 3840 80 56 00
+        e 0 80 5b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {61C2A607-07C0-4176-B46C-B78F4EE8ED6A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1
+        VELLANE -1 100 0
+        CFGEDITVIEW -533.633672 0.07525 34 14 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 200 69 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DCBD439-B11F-42B3-A450-0FF93478C09D}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {208D2F53-B8C5-4856-A4B1-4E4F4507AF32}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {4725EB00-41E3-49CF-92AA-C4D3F7C04ED9}
+        E 0 90 56 60
+        e 0 90 5b 60
+        E 7680 80 56 00
+        e 0 80 5b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -935.614283 0.042428 32 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F9F2477-4DA6-4CA1-9FA7-660C2B633EB9}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F98C15E-2FF0-4A66-8A02-ECD03C5BC508}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {7F206B29-3A2B-443D-A923-BD2A7D7B47ED}
+        e 0 90 54 60
+        E 0 90 59 60
+        e 7680 80 54 00
+        E 0 80 59 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -935.614283 0.042428 32 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4388A6FE-FE82-4C2D-8DD9-F70D070D5E5E}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F4510CA-FA56-46F7-A937-14A134D035BD}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {3BB9148A-89F2-475E-917D-9FF9E06C21DB}
+        E 0 90 56 60
+        E 0 90 5b 60
+        e 0 90 53 60
+        E 7680 80 56 00
+        E 0 80 5b 00
+        e 0 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -935.614283 0.042428 46 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E73E1208-261E-4BE4-94E3-67090B715322}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D347C0C-10D4-491B-A4B4-58B95E0E63A6}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {B4945DDE-D937-4195-BCDA-F93989F02A6F}
+        E 0 90 56 60
+        E 0 90 5b 60
+        e 0 90 53 60
+        E 7680 80 56 00
+        E 0 80 5b 00
+        e 0 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 42 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09C86832-0199-4199-8BDF-8563F7D5BB7E}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C0EBF31-4D9F-4ACC-BA37-E00ECCF38E94}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {15884F47-28C0-4AFD-882A-78A9C8851A01}
+        E 0 90 56 60
+        e 0 90 5d 60
+        E 7680 80 56 00
+        e 0 80 5d 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 30 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0125E43C-B899-49F3-B851-87595805689F}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85A9A30A-78C9-4DDB-AF25-94C0C59AB5D9}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {B82B90DC-1332-4850-BD96-753CD4DF4836}
+        E 0 90 56 60
+        e 0 90 5b 60
+        E 7680 80 56 00
+        e 0 80 5b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 30 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1855CB08-9CE0-466F-A88A-5CB36759D54C}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E99D335-D001-4CC3-8F68-C9B987574F17}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {26F27A2D-9B06-49A3-A6B3-2AF6287A0719}
+        E 0 90 56 60
+        e 0 90 5b 60
+        E 7680 80 56 00
+        e 0 80 5b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 63 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A0C26BF-3EBB-4D85-B05E-C08ED491DDDD}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CD88151-D81B-42C5-A531-291C6207B52F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {DF8FBBB8-6164-4209-A1F8-A015FB2D6916}
+        E 0 90 56 60
+        e 0 90 5b 60
+        E 7680 80 56 00
+        e 0 80 5b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 63 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC3141E3-F472-48B7-AEAC-0B67626D3CB9}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {671443D8-1AD6-4E41-A8CE-FD79C93A312A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {2EC7967A-BF87-473D-8CCE-5DA7E4699332}
+        E 0 90 56 60
+        e 0 90 5b 60
+        E 7680 80 56 00
+        e 0 80 5b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 63 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A038DC9C-2204-450A-9767-77FFB1F57F21}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DB07BF0-0268-44CB-97BB-6E3FC95A6FA3}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {37A8BB5E-D16C-4AD8-A81A-FC4414183802}
+        E 0 90 56 60
+        e 0 90 5a 60
+        E 7680 80 56 00
+        e 0 80 5a 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 31 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 44
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {25EABA70-5861-4FB5-9903-DE81DB2720D6}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {446BA6B1-36EA-47E5-9A8E-5ECFF4867F4B}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {0D31C9B8-00FC-4877-A1AC-5E1FC948F891}
+        e 0 90 54 60
+        E 0 90 58 60
+        e 7680 80 54 00
+        E 0 80 58 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 31 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AAB435EA-A3F5-4962-896D-8EBCF8069A24}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A769012-6BAD-4B07-94D8-7071070AA637}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {99877D35-78D2-416E-85E8-17D45619217F}
+        e 0 90 54 60
+        E 0 90 58 60
+        e 7680 80 54 00
+        E 0 80 58 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 31 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 52
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4AE523F5-B8E7-45E9-8CA0-71B2DBDE25EF}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3713FCD9-F555-4854-BAAF-254C666CBD8F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {B3DA2703-4795-4020-B973-AF9DF0F868D5}
+        e 0 90 54 60
+        E 0 90 58 60
+        e 7680 80 54 00
+        E 0 80 58 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 31 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94D54556-4B7E-4784-87EB-8966853FEB8E}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47E373F9-01E1-41E4-8B08-2BFD5CB51D4E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {28E35261-7D00-4FB3-B810-C4DCA20CD33C}
+        e 0 90 54 60
+        E 0 90 58 60
+        e 7680 80 54 00
+        E 0 80 58 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 31 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0857842-AD3D-496C-A14F-8F19D1B05FA9}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {544910D4-B65C-4E0B-B6E3-6E0F96F6DCA9}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {48C3A3C5-CAF2-4B9B-8669-223A64E678DC}
+        e 0 90 54 60
+        E 0 90 58 60
+        e 7680 80 54 00
+        E 0 80 58 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 31 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9FF541E-452B-4012-99FC-3383EC0AF718}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CCD9239-08F9-4AC1-813B-7AE0C49AF81E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F4D139D8-9E53-489C-9E20-3E094FDD363B}
+        e 0 90 52 60
+        E 0 90 58 60
+        e 7680 80 52 00
+        E 0 80 58 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 31 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 68
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4EA7791-E31B-48E8-8336-47A5A4F7E2DE}
+      IID 7
+      NAME "Upper voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBE90106-B392-464F-A57E-9C8883419E28}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {9C9264DE-7D1B-4109-B32C-ADE500E9D92E}
+        e 0 90 52 60
+        E 0 90 58 60
+        e 7680 80 52 00
+        E 0 80 58 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF4B9292-6ADE-4260-A602-9B5701F72044}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 54 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 72
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {180000D4-A9FC-4519-97B1-39BC006B735E}
+      IID 62
+      NAME "Upper mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34DB4844-849A-4D8E-858C-DDD4984D8CD7}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {6F1B3653-1706-4234-91C1-87F9165FA60E}
+        E 0 90 56 7f
+        e 0 90 50 7f
+        E 11520 80 56 00
+        e 0 80 50 00
+        E 3840 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {A88C2D92-1B0D-4CFF-AE11-16A82052C2D8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 61
+        VELLANE -1 100 0
+        CFGEDITVIEW -1050.43818 0.037625 37 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 84
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3DB71095-9265-4C72-95A2-A2619DE4D6F9}
+      IID 65
+      NAME "Upper mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B41796E1-B9AB-4BFD-A3A4-E43B98EAC3DB}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {CA598431-F2DE-4D8B-A6BE-5633622AC0A1}
+        e 19200 90 53 60
+        e 3840 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {F16D4495-A364-4A1A-B299-153F4CF7B551}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 64
+        VELLANE -1 100 0
+        CFGEDITVIEW -1611.846878 0.025083 40 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37879C9B-A670-4F4F-A657-2A24791E5EE8}
+      IID 68
+      NAME "Upper mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {360734F1-E687-4911-92A6-8A122F465CE2}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {3A086AAC-5DF4-4322-BA01-0592A9BB74A7}
+        E 0 90 56 60
+        e 0 90 53 60
+        E 4800 80 56 00
+        e 0 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CB6E4F53-0101-4738-B314-F398DCA1D71E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 67
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 38 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0D23E2A-1878-4B11-B1F0-0CFF3846FCA0}
+      IID 68
+      NAME "Upper mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {017272B7-A632-43E9-B8DB-2CC3105A7D2B}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F880ACD8-7697-4BDA-B5BB-7EEC5368C1A6}
+        E 0 90 56 60
+        e 0 90 53 60
+        E 4800 80 56 00
+        e 0 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CB6E4F53-0101-4738-B314-F398DCA1D71E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 67
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 38 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 100
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BC0C721-BF03-4C90-8559-6C8172F64E52}
+      IID 68
+      NAME "Upper mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42D7B14A-E5F6-4C58-9042-4BF0A9A25A57}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {9E3CFBE1-60E5-4613-9FEB-81E8BCF4D37E}
+        E 0 90 56 60
+        e 0 90 53 60
+        E 4800 80 56 00
+        e 0 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CB6E4F53-0101-4738-B314-F398DCA1D71E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 67
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 38 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 102
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B6E0F1E-829E-4BA0-817A-DF6599C78909}
+      IID 68
+      NAME "Upper mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86849946-E314-49B6-BD37-34EC6CB1C293}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F20CE6E9-4A99-4B7E-B94B-B888C190EE01}
+        E 0 90 56 60
+        e 0 90 53 60
+        E 4800 80 56 00
+        e 0 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CB6E4F53-0101-4738-B314-F398DCA1D71E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 67
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 38 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {DAF8F7E5-52A0-4AD6-8051-CCE86109FE2D}
+    NAME "Middle mass (Lion)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.44224548976413 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DAF8F7E5-52A0-4AD6-8051-CCE86109FE2D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      EGUID {6FA63953-7E01-48D6-9E12-391E5F896EA2}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 4 0 0
+      PT 6.5 0 0
+      PT 9 0 0
+      PT 11.5 0 0
+      PT 13 0 0
+      PT 14 1 0
+      PT 16.5 1 0
+      PT 19 1 0
+      PT 20.5 1 0
+      PT 21.5 0 0
+      PT 24 0 0
+      PT 26.5 0 0
+      PT 28 0.01 0
+      PT 29 1 0
+      PT 31.5 1 0
+      PT 34 1 0
+      PT 35.5 1 0
+      PT 36.5 0 0
+      PT 39 0 0
+      PT 41.5 0 0
+      PT 43 0 0
+      PT 44 -1 0
+      PT 46.5 -1 0
+      PT 49 -1 0
+      PT 50.5 -1 0
+      PT 51.5 0.00084746 0
+      PT 54 0.00084746 0
+      PT 56.5 0.00084746 0
+      PT 58 0.00033898 0
+      PT 59 1 0
+      PT 61.5 1 0
+      PT 64 1 0
+      PT 65.5 1 0
+      PT 66.5 -0.01 0
+      PT 69 0 0
+      PT 71.5 0 0
+      PT 73 0 0
+      PT 74 1 0
+      PT 76.5 1 0
+      PT 84 1 0
+      PT 86.5 1 0
+      PT 88 1 0
+      PT 89 0.06 0
+      PT 91.5 0.06 0
+      PT 94 0.06 0
+      PT 95.5 0 0 0 1
+      PT 96.5 -1 0
+      PT 99 -1 0
+      PT 101.5 -1 0
+      PT 104 -1 0
+    >
+    <WIDTHENV
+      EGUID {7359D4CB-A1FE-494E-BA8D-327CC6904283}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+      PT 4 -1 0
+      PT 11.5 -1 0
+      PT 11.5 1 0
+      PT 12 1 0
+      PT 12 -1 0
+      PT 26.5 -1 0
+      PT 26.5 1 0
+      PT 27 1 0
+      PT 27 -1 0
+      PT 41.5 -1 0
+      PT 41.5 1 0
+      PT 42 1 0
+      PT 42 -1 0
+      PT 48 -1 0
+      PT 66 1 0
+      PT 78 1 0
+      PT 84 1 0 0 1
+      PT 84 -1 0
+    >
+    <WIDTHENV2
+      EGUID {43FDF51B-AF51-4D1D-A6A2-1C0FA9D4B954}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+      PT 4 -0.96 0
+      PT 6.5 -0.96 0
+      PT 9 -1 0
+      PT 10.5 -1 0
+      PT 11.5 1 0
+      PT 14 1 0
+      PT 16.5 1 0
+      PT 19 1 0
+      PT 20.5 1 0
+      PT 21.5 -1 0
+      PT 24 -1 0
+      PT 25.5 -1 0
+      PT 26.5 0.99111111 0
+      PT 29 0.99111111 0
+      PT 31.5 0.99111111 0
+      PT 34 0.99111111 0
+      PT 35.5 1 0
+      PT 36.5 -1 0
+      PT 39 -1 0
+      PT 40.5 -1 0
+      PT 41.5 1 0
+      PT 44 1 0
+      PT 46.5 1 0
+      PT 49 1 0
+      PT 50.5 1 0
+      PT 51.5 -1 0
+      PT 54 -1 0
+      PT 55.5 -1 0
+      PT 56.5 1 0
+      PT 59 1 0
+      PT 61.5 1 0
+      PT 64 1 0
+      PT 65.5 1 0
+      PT 66.5 -1 0
+      PT 69 -1 0
+      PT 70.5 -1 0
+      PT 71.5 1 0
+      PT 74 1 0
+      PT 76.5 1 0
+      PT 83.4995 1 0
+      PT 83.500001 0.97 0
+      PT 83.999999 0.97 0
+      PT 84.0005 0.9996 0
+      PT 85.5 1 0
+      PT 86.5 -1 0
+      PT 89 -1 0
+      PT 90.5 -1 0
+      PT 91.5 1 0
+      PT 94 1 0
+      PT 96.5 1 0
+      PT 98 1 0
+      PT 99 -1 0
+      PT 101.5 -1 0
+      PT 103 -1 0 0 1
+      PT 104 1 0
+    >
+    <FXCHAIN
+      WNDRECT 21 49 832 775
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAEAA=
+        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1A29B55C-0C8A-454B-BBFE-4DA52CD60F7B}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {703DC6AD-6272-48E4-8E90-7945D1BC8AC4}
+      IID 3
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3135894F-9CAC-4A86-BC42-2383E7AD5562}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {570B6087-1BFA-40B1-9BE6-CDEFAF382AE0}
+        E 7680 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BF41827A-E87C-4D7B-B035-7ED7A70F520F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D9A9B674-9C5A-4D2A-AF3D-3EAB8E20C3CA}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D221CAA-0BD0-454F-8F14-574F06ABF7CF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {233B82C1-0C17-4F22-B517-DEC6FFFDFCF8}
+        E 0 90 43 60
+        E 0 90 4a 60
+        e 0 90 4f 60
+        E 7680 80 43 00
+        E 0 80 4a 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -700.847602 0.056504 46 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B3100C3-53D8-4FC6-9177-D370766DD73F}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBCD4628-590D-41E5-BE33-CD1FFD8472BD}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {6FBCE55B-DF3C-42A2-BF1C-B32F7B8C5FB4}
+        E 0 90 43 60
+        e 0 90 48 60
+        E 0 90 4f 60
+        E 7680 80 43 00
+        e 0 80 48 00
+        E 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -700.847602 0.056504 46 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A46043E-2783-4C2E-B72B-5B555A2AF62F}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D867401E-AC97-4D6C-8210-8F89C707FBBB}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F289ED98-2E7A-41C4-A30C-615B8D5C7488}
+        E 0 90 43 60
+        e 0 90 48 60
+        E 0 90 4f 60
+        E 7680 80 43 00
+        e 0 80 48 00
+        E 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -935.614283 0.042428 46 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4E0E0CC-5463-4A92-AEF2-07EF154825C5}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2B99A80-DBD2-4A81-ADA4-8D91C6ECD0F6}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {3B7DADEC-DCBE-4FF1-8B70-D18F04A5362E}
+        E 0 90 45 60
+        e 0 90 4f 60
+        E 7680 80 45 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 42 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D866E6ED-7CB6-4765-9C50-FA0B8376FFC4}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBFAB89C-A9D2-45DB-AF2F-9208BC7070A0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {A22940BA-36D5-4515-B6FC-A1075BEE22AB}
+        E 0 90 47 60
+        e 0 90 4e 60
+        E 7680 80 47 00
+        e 0 80 4e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -705.157453 0.056504 48 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9FE6132-C9E2-45C8-A707-968018549DBF}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D571D3FD-C548-4CF3-8B36-EB5247145458}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {B901E4A2-BB8B-47C2-AF44-7CE999AB777D}
+        E 0 90 48 60
+        e 0 90 4c 60
+        E 7680 80 48 00
+        e 0 80 4c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -705.157453 0.056504 49 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB13B276-A47B-46B4-90EC-E91DC2ACDB5C}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E426A42-FA43-4474-86D5-59DB75B34235}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {DA1E04FB-EAE3-4A48-BF5A-E9B1CE44635D}
+        E 0 90 48 60
+        e 0 90 4c 60
+        E 7680 80 48 00
+        e 0 80 4c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 63 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3FBDDEC7-E05B-4D27-9BB1-A1BF10990229}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA7518BC-0802-4263-80CE-6E420101CC89}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {409A3AF0-BD0A-4AD3-840C-E608175600BB}
+        E 0 90 48 60
+        e 0 90 4e 60
+        E 7680 80 48 00
+        e 0 80 4e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 44 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0EF31232-6399-45E1-BCC6-4D56AF318698}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58237A9B-4FC6-40FE-887C-2263B5F929C4}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {762C7F59-95D1-4575-A629-0DEA00D0326E}
+        E 0 90 48 60
+        e 0 90 4c 60
+        E 7680 80 48 00
+        e 0 80 4c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F8CB8F1-D1FE-44C0-A189-C220DC569D43}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01E7F593-B80C-4548-8AE7-A568C519A67F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {CC75A5DC-1A00-4790-A66C-990672677734}
+        e 0 90 47 60
+        E 0 90 4c 60
+        e 7680 80 47 00
+        E 0 80 4c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 44
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8511DABF-68FB-4926-A72B-4FCBD2E9E26C}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A9FC4C5-858B-44CE-8400-697A8C36BE2D}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {73D4E901-4567-4496-8F77-321049DD2776}
+        E 0 90 48 60
+        e 0 90 4c 60
+        E 7680 80 48 00
+        e 0 80 4c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B45DD42-220B-4F6D-BFCA-B94BCE8946A8}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B2D9AC0-D3CF-41E9-BA85-D993E9902735}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {6C52B98A-8C44-47AE-BE9E-868692F532E5}
+        E 0 90 48 60
+        e 0 90 4e 60
+        E 7680 80 48 00
+        e 0 80 4e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 52
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41086102-CC4B-4AC4-BF89-9B4750DC2E6F}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA2635F0-78C1-4437-B522-C93293FB8AB1}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {7A637B12-A238-4120-AD2C-B9A5066BAB63}
+        E 0 90 48 60
+        e 0 90 4e 60
+        E 7680 80 48 00
+        e 0 80 4e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04B285C5-A734-44ED-9581-69C33459A205}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99A9A049-38E2-42AD-9868-30AFF5451243}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {E22B0056-49F7-40BD-8ADC-1342C3E062EC}
+        e 0 90 4a 60
+        E 0 90 4e 60
+        e 7680 80 4a 00
+        E 0 80 4e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D0BD232-78BF-47F7-BF59-4F54794A6C45}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5130D1B7-4D2D-47ED-A8E9-B5EE1CFE8ACF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {2078F2D2-9830-40AC-B86B-D1F17CE82F80}
+        E 0 90 4a 60
+        e 0 90 4f 60
+        E 7680 80 4a 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9602057-FC0F-4B04-8DB4-1D2D1324AA69}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {116B9958-9FE2-4145-864A-BAEDCCA1257F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {699DCA18-2787-4A4A-B141-F794A8C162A3}
+        E 0 90 4a 60
+        e 0 90 4f 60
+        E 7680 80 4a 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 47 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 68
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {553308C7-3E6F-466F-A630-B6E988801DD4}
+      IID 6
+      NAME "Middle voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B64EDB1-02FA-40B3-BD79-36473D44859E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {D559288A-7DD6-4C81-BDFD-74482B7A996C}
+        e 0 90 4b 60
+        E 0 90 4f 60
+        e 7680 80 4b 00
+        E 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {631F08C1-4927-43EE-B183-B39E62CFAAE5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 5
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 54 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 72
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84CB4DD1-2A8D-4BE1-93A6-F18946B0938B}
+      IID 63
+      NAME "Middle mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD8F8E67-F3FD-479F-B63C-B6805DE58EF0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {C41FEA13-E3E7-41E2-AA63-733305959FF1}
+        E 0 90 49 60
+        E 0 90 4c 60
+        e 0 90 4f 60
+        E 11520 80 49 00
+        E 0 80 4c 00
+        e 0 80 4f 00
+        E 3840 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {42EF9559-DBAB-47A2-A534-4734576EC428}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 62
+        VELLANE -1 100 0
+        CFGEDITVIEW -1055.004252 0.037625 44 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 403 202 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 84
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD9237ED-804D-4BD5-9718-0AA85824C284}
+      IID 66
+      NAME "Middle mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCBCFC5E-A3F3-476A-97D5-B1ED3872BBD3}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {31E8C8AB-CA07-4622-A300-FDD410FB0B5A}
+        e 0 90 43 60
+        E 7680 90 4f 60
+        E 7800 90 4a 60
+        e 7560 80 43 00
+        E 0 80 4f 00
+        E 0 80 4a 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {A11D9B9F-6A1D-4CA8-AF9B-133AAE7A4940}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 65
+        VELLANE -1 100 0
+        CFGEDITVIEW -1198.827185 0.033405 48 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 403 202 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.009943 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16761DC4-5B5B-4605-B8FA-61531D56496E}
+      IID 69
+      NAME "Middle mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5510BEF1-FE63-4909-8246-047409CEE92A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {E4F6C47A-36C0-47AC-B228-7FA0DA15C362}
+        E 0 90 43 60
+        E 0 90 4a 60
+        e 0 90 4f 60
+        E 4800 80 43 00
+        E 0 80 4a 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {8AF9F2EE-B5F1-4F62-A60B-2008CD8FAADA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 68
+        VELLANE -1 100 0
+        CFGEDITVIEW -333.855535 0.1204 45 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 403 202 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.009943 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8E9795A-B6E3-4BC8-818A-AE72C897303A}
+      IID 69
+      NAME "Middle mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEDE0B71-F41B-4C6D-9C81-CE931F09440F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {D928C0CB-68BE-4191-BBD3-6A81B37D8F4E}
+        E 0 90 43 60
+        E 0 90 4a 60
+        e 0 90 4f 60
+        E 4800 80 43 00
+        E 0 80 4a 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {8AF9F2EE-B5F1-4F62-A60B-2008CD8FAADA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 68
+        VELLANE -1 100 0
+        CFGEDITVIEW -333.855535 0.1204 45 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 403 202 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 100
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.009943 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F60ECC4B-0F70-4BF1-A9FF-8E9662AC02CA}
+      IID 69
+      NAME "Middle mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25F7F53B-3488-41D7-9760-23D69239AF41}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {95AA7387-B6A7-4B0C-8576-FF1B2348947E}
+        E 0 90 43 60
+        E 0 90 4a 60
+        e 0 90 4f 60
+        E 4800 80 43 00
+        E 0 80 4a 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {8AF9F2EE-B5F1-4F62-A60B-2008CD8FAADA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 68
+        VELLANE -1 100 0
+        CFGEDITVIEW -333.855535 0.1204 45 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 403 202 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 102
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.009943 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {805E967B-FBFC-4BF8-8399-173A7F403A59}
+      IID 69
+      NAME "Middle mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0B21503-9177-4C45-854E-4B898233262D}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {68D1E307-B6A5-4C93-B039-C8DF9D8BCE63}
+        E 0 90 43 60
+        E 0 90 4a 60
+        e 0 90 4f 60
+        E 4800 80 43 00
+        E 0 80 4a 00
+        e 0 80 4f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {8AF9F2EE-B5F1-4F62-A60B-2008CD8FAADA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 68
+        VELLANE -1 100 0
+        CFGEDITVIEW -333.855535 0.1204 45 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 403 202 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {F23EC090-23FC-4DD5-8128-68C4C3AD1335}
+    NAME "Lower mass (Grass)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.58799079112731 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F23EC090-23FC-4DD5-8128-68C4C3AD1335}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <PANENV2
+      EGUID {D894FC0B-C71C-408A-B8C6-AD7353417178}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 4 0 0
+      PT 6.5 0 0
+      PT 9 0 0
+      PT 10.5 0 0
+      PT 11.5 -1 0
+      PT 14 -1 0
+      PT 16.5 -1 0
+      PT 18 -1 0
+      PT 19 0 0
+      PT 21.5 0 0
+      PT 24 0 0
+      PT 25.5 0.01 0
+      PT 26.5 -1 0
+      PT 29 -1 0
+      PT 31.5 -1 0
+      PT 33 -1 0
+      PT 34 0 0
+      PT 36.5 0 0
+      PT 39 0 0
+      PT 40.5 0 0
+      PT 41.5 1 0
+      PT 44 1 0
+      PT 46.5 1 0
+      PT 48 1 0
+      PT 49 -0.01 0
+      PT 51.5 0 0
+      PT 54 0 0
+      PT 55.5 -1 0
+      PT 56.5 -1 0
+      PT 59 -1 0
+      PT 61.5 -1 0
+      PT 63 -1 0
+      PT 64 0 0
+      PT 66.5 -0.01754386 0
+      PT 69 -0.01754386 0
+      PT 70.5 0 0
+      PT 71.5 -1 0
+      PT 74 -1 0
+      PT 76.5 -1 0
+      PT 84 -1 0 0 1
+      PT 84 -0.02 0
+      PT 86.5 0.00280702 0
+      PT 89 0.00280702 0
+      PT 90.5 0.01112281 0
+      PT 91.5 1 0
+      PT 94 1 0
+      PT 96.5 1 0
+      PT 99 1 0
+      PT 104 1 0
+    >
+    <WIDTHENV
+      EGUID {6D4FFF11-18B1-4595-8539-8B0020F100BD}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+      PT 4 -1 0
+      PT 9 -1 0
+      PT 9 1 0
+      PT 9.5 1 0
+      PT 9.5 -1 0
+      PT 24 -1 0
+      PT 24 1 0
+      PT 24.5 1 0
+      PT 24.5 -1 0
+      PT 39 -1 0
+      PT 39 1 0
+      PT 39.5 1 0
+      PT 39.5 -1 0
+      PT 48 -1 0
+      PT 66 1 0
+      PT 78 1 0
+      PT 84 1 0
+      PT 84 -1 0 0 1
+    >
+    <WIDTHENV2
+      EGUID {BD7522CB-C29A-41A7-B233-4BBABF209B0D}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 -1 0
+      PT 4 -1 0
+      PT 6.5 -1 0
+      PT 8 -1 0
+      PT 9 1 0
+      PT 11.5 1 0
+      PT 14 1 0
+      PT 16.5 1 0
+      PT 18 1 0
+      PT 19 -1 0
+      PT 21.5 -1 0
+      PT 23 -1 0
+      PT 24 1 0
+      PT 26.5 1 0
+      PT 29 1 0
+      PT 31.5 1 0
+      PT 33 1 0
+      PT 34 -1 0
+      PT 36.5 -1 0
+      PT 38 -0.96 0
+      PT 39 1 0
+      PT 41.5 1 0
+      PT 44 1 0
+      PT 46.5 1 0
+      PT 48 1 0
+      PT 49 -1 0
+      PT 51.5 -1 0
+      PT 53 -1 0
+      PT 54 1 0
+      PT 56.5 1 0
+      PT 59 1 0
+      PT 61.5 1 0
+      PT 63 1 0
+      PT 64 -1 0
+      PT 66.5 -1 0
+      PT 68 -1 0
+      PT 69 1 0
+      PT 71.5 1 0
+      PT 74 1 0
+      PT 76.5 1 0
+      PT 84 0.94 0
+      PT 84 -1 0
+      PT 86.5 -1 0
+      PT 88 -0.98 0 0 1
+      PT 89 1 0
+    >
+    <FXCHAIN
+      WNDRECT 21 49 832 775
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAEAA=
+        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8D29C5E9-EE7A-4C37-B30C-86DF6442B4DE}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E62A2525-7DC4-4DB7-8B44-D2AE3E399A54}
+      IID 4
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE2515D6-B565-447C-AE2E-71D710DEDEAF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {09333E6E-7242-4993-B468-276BB6C487B9}
+        E 0 90 37 60
+        e 0 90 3e 60
+        E 7680 80 37 00
+        e 0 80 3e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {48EE3E2B-4A64-4EB5-8CDD-645996B7F8CB}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 3
+        VELLANE -1 100 0
+        CFGEDITVIEW 4495.640263 0.133464 60 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 200 69 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89B5423B-8B98-4740-B617-A1FB49B1A98D}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14A332D9-4287-4522-AC2C-46C9855ADAC1}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {38B3F325-9041-4034-9EEB-05E6732103E9}
+        E 0 90 3e 60
+        e 0 90 37 60
+        E 7680 80 3e 00
+        e 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -712.973989 0.056504 63 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D44893AD-A633-4F7E-ABF6-8780C28EC7A4}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2A98CF7-250D-479E-B844-C169AD7DA72D}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {182CB074-664F-422A-B2D5-A935CC146034}
+        E 0 90 3e 60
+        e 0 90 37 60
+        E 7680 80 3e 00
+        e 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -712.973989 0.056504 63 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D23D80C-D07D-4538-898D-0E6A1619F915}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E2B31A1-B002-4095-B901-43D3855E5006}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F2601398-034B-427A-9D91-99F7487C36EC}
+        E 0 90 3e 60
+        e 0 90 37 60
+        E 7680 80 3e 00
+        e 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -935.614283 0.042428 46 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3E697AC5-CA9B-46FF-BE36-9DE4BBB56520}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B56BD520-2CE0-4A6E-A9C6-CA5066C8243F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {840DA7BC-91C9-42C2-9FD5-FD4362441203}
+        e 0 90 40 60
+        E 0 90 37 60
+        e 7680 80 40 00
+        E 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 42 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3DA6572-82D4-4216-B364-C168B4713860}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE7017A7-D69C-47BD-B43A-C6F2137C2762}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {6A31DCE2-93AB-4EEA-BCEE-50146F2A9DB6}
+        e 0 90 40 60
+        E 0 90 37 60
+        e 7680 80 40 00
+        E 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 42 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8861473A-450B-4F23-AEF9-7F4FC1983929}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B48B754D-8E10-4FD4-A7DF-1F5853BB4DA1}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {095EAE5B-A211-419A-8C19-8D3A0CD01B02}
+        e 0 90 40 60
+        E 0 90 37 60
+        e 7680 80 40 00
+        E 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 42 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A9A069B-32C5-41C7-A161-0064B3BB4594}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {745EF04F-27DC-4963-A2CA-352E4841DA82}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {C2DCF85A-A3CA-48B4-8F68-4EAD75A589E5}
+        E 0 90 40 60
+        e 0 90 39 60
+        E 7680 80 40 00
+        e 0 80 39 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 63 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D6234AD-ABD9-4226-BBC3-BB135445218B}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EC52622-22EC-4F47-BE8F-4008977E364A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {52591C56-763C-49EB-B14D-6FD3CF1D1FEC}
+        e 0 90 42 60
+        E 0 90 39 60
+        e 7680 80 42 00
+        E 0 80 39 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 59 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3473AB0-D291-4108-873D-DEEF07A7BA7C}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6B60EEE-7FE2-461C-AADE-1E0FF44EA037}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {90695D63-074B-4919-A2E0-9D3E04B6C481}
+        e 0 90 43 60
+        E 0 90 39 60
+        e 7680 80 43 00
+        E 0 80 39 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 56 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06688E0D-1C3C-4B65-9B87-60D76CDC8EA7}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7122FDF9-073C-43BB-BFB0-DD50C5C11037}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {1AFAD69F-E0DE-4E86-B983-1BB9054BEFFE}
+        e 0 90 42 60
+        E 0 90 3b 60
+        e 7680 80 42 00
+        E 0 80 3b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 58 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 44
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56A980C6-0D10-4246-83E5-FEF231531DD8}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6671899-5C84-46E9-AA20-BB1B55F8972C}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {DFB332E4-2452-4651-801E-74B4E7AB7DD4}
+        e 0 90 43 60
+        E 0 90 3c 60
+        e 7680 80 43 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 58 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E68FFFDA-D444-40E0-829D-AF300B8F6853}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C94B911-F3C8-42DB-8CDE-97FEB402D5E4}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {25708448-2F2E-4660-857E-A7B44AC08F3D}
+        e 0 90 43 60
+        E 0 90 3c 60
+        e 7680 80 43 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 58 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 52
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9F12C85-E0F4-4805-B1E7-995988DBE57E}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66BA2F27-9809-4F18-A9CE-968A258D6210}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {CE3E5F46-71FA-4B6C-B45B-FDE9F498477C}
+        e 0 90 44 60
+        E 0 90 3c 60
+        e 7680 80 44 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 58 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA5B12E9-6CFA-4CAC-9D1F-AAA8638520D7}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1A4E4C7-5EC3-4B3B-AD2D-3B5B5F9265D0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {80B0EC1B-6ECD-4107-A84C-03E7CA0C9D0B}
+        E 0 90 44 60
+        e 0 90 3e 60
+        E 7680 80 44 00
+        e 0 80 3e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 58 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4B306DF-CACA-4335-BBA4-81E3F8962821}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD7658E8-F3C1-4B3E-B1EE-681CFB79AF05}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {D971FF6F-6419-42AB-828D-DA234C965CA0}
+        e 0 90 45 60
+        E 0 90 3e 60
+        e 7680 80 45 00
+        E 0 80 3e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 55 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D423CEB-62C1-4C2C-8B87-1B18BAEF5DAD}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AB32217-E1F3-43F2-99D2-47927F9684DF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {C0C92F55-CC1D-4D54-87A4-766000C94F8F}
+        e 0 90 45 60
+        E 0 90 3e 60
+        e 7680 80 45 00
+        E 0 80 3e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 55 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 68
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC73979E-6C08-4C06-9DBB-D7F97C65FD0C}
+      IID 5
+      NAME "Lower voice untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2E881B7-71DF-4ED8-8F86-38AF4319681F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {757A576B-E5B0-4260-8AF8-9CEDEC64E771}
+        E 0 90 45 60
+        e 0 90 3f 60
+        E 7680 80 45 00
+        e 0 80 3f 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {BBA08D52-1DDD-4E3F-95FA-A1D7A204679F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE -1 100 0
+        CFGEDITVIEW -710.307488 0.056504 54 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 387 186 1642 771 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 72
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E78063D0-8C93-4C1D-BE6E-F0F025FB2BCB}
+      IID 64
+      NAME "Lower mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04C9913A-A238-4CC0-92B0-9F2611F53A8D}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {E69D9583-F56E-4A00-BC95-F863D529D880}
+        E 0 90 3f 7f
+        e 0 90 45 7f
+        E 11520 80 3f 00
+        e 0 80 45 00
+        E 3840 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {84E96BF1-EC73-41E6-AA76-F212A61E4EB2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 63
+        VELLANE -1 100 0
+        CFGEDITVIEW -1427.285615 0.028252 53 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 84
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A817A113-9B1B-48D4-9439-2B9143A91B5B}
+      IID 67
+      NAME "Lower mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE5AF386-C901-4139-9462-E82ABD247D08}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {CEABD947-04FE-4892-8585-804056D2BA84}
+        e 21120 90 3e 60
+        e 1920 80 3e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {16C17ED9-1AB9-4816-946E-48E57126B6A1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 66
+        VELLANE -1 100 0
+        CFGEDITVIEW -2141.936448 0.018835 62 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB5B983D-611E-46F9-944A-F047DDD684F2}
+      IID 70
+      NAME "Lower mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEA5282A-211B-4BE9-918D-E2581DC47DBC}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {9FEAEACA-638C-4A69-AB5E-5796F029B13E}
+        E 0 90 3e 60
+        e 0 90 37 60
+        E 4800 80 3e 00
+        e 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {3A8CDF78-DC57-49FC-89AA-44970B8700D1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 69
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 62 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 98
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {255D1354-96D8-474F-A396-C24E1D013F04}
+      IID 70
+      NAME "Lower mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A07311B2-EB47-467A-BA00-EB3A5F70E565}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {55E58FDC-28AB-4D4D-8974-91E8138D6B5E}
+        E 0 90 3e 60
+        e 0 90 37 60
+        E 4800 80 3e 00
+        e 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {3A8CDF78-DC57-49FC-89AA-44970B8700D1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 69
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 62 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 100
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0AFF7820-120A-41C2-BD21-E82AC781AE5A}
+      IID 70
+      NAME "Lower mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD9A6EF5-26AD-432A-B1D5-145EDA02A74A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {B6283A4D-CC71-4742-B22C-B87D30A4E0E6}
+        E 0 90 3e 60
+        e 0 90 37 60
+        E 4800 80 3e 00
+        e 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {3A8CDF78-DC57-49FC-89AA-44970B8700D1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 69
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 62 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 102
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D203237-AADA-4F71-9DC9-D9E877915CAD}
+      IID 70
+      NAME "Lower mass untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72C739D1-2974-4E89-A4A4-2361EB66FB4C}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {6D85AEE0-F7CB-4682-9806-62C53616C548}
+        E 0 90 3e 60
+        e 0 90 37 60
+        E 4800 80 3e 00
+        e 0 80 37 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {3A8CDF78-DC57-49FC-89AA-44970B8700D1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 69
+        VELLANE -1 100 0
+        CFGEDITVIEW -439.230479 0.090406 62 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 216 85 1471 670 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+>
